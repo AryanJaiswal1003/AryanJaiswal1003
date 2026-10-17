@@ -1,21 +1,120 @@
-<h1 align="center">Hi 👋, I'm Aryan Jaiswal</h1>
-- 🌱 I’m currently learning **AI&ML, Data Science**
+<h1 align="center">Hi, I'm Aryan Jaiswal</h1>
 
-- 📫 How to reach me **aryanjaiswal1003@yahoo.com**
+<h3 align="center">
+  Aspiring AI/ML Engineer | Data Science Enthusiast
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jaiswal-ariha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaiswal-ariha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaiswal-ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaiswal-ar" height="30" width="40" /></a>
-<a href="https://instagram.com/here_aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="here_aryan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/random_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="random_10" height="30" width="40" /></a>
+<p align="center">
+  Learning how to build intelligent systems through mathematics,
+  machine learning, Python, and software engineering.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/aryanjaiswal1003">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:aryanjaiswal1003@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanjaiswal1003&show_icons=true&locale=en&layout=compact" alt="aryanjaiswal1003" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanjaiswal1003&show_icons=true&locale=en" alt="aryanjaiswal1003" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjaiswal1003&" alt="aryanjaiswal1003" /></p>
+- Currently learning **AI/ML and Data Science**
+- Exploring **Python, statistics, mathematics, and machine learning**
+- Interested in building challenging, practical engineering projects
+- Contact: **aryanjaiswal1003@yahoo.com**
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/jaiswal-ariha">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/jaiswal-ar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/here_aryan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/random_10">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+## GitHub Overview
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faryanjaiswal1003&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github"
+    alt="Public repository count"
+  />
+  <img
+    src="https://img.shields.io/github/followers/aryanjaiswal1003?style=for-the-badge&label=Followers"
+    alt="GitHub followers"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=aryanjaiswal1003&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent"
+    alt="GitHub statistics"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjaiswal1003&layout=compact&langs_count=8&theme=transparent"
+    alt="Most used programming languages"
+  />
+</p>
+
+## Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=aryanjaiswal1003&theme=transparent"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aryanjaiswal1003&theme=github-compact&hide_border=true"
+    alt="GitHub contribution activity graph"
+  />
+</p>
+
+## Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,pytorch,tensorflow,mysql,postgres,mongodb,git,docker,css,js&perline=7" alt="Technology icons" />
+</p>
+
+## Featured Projects
+
+<!-- Replace these examples with your actual repository names. -->
+
+<p align="center">
+  <a href="https://github.com/aryanjaiswal1003">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=aryanjaiswal1003&repo=YOUR_PROJECT_1&theme=transparent"
+      alt="Featured project 1"
+    />
+  </a>
+  <a href="https://github.com/aryanjaiswal1003">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=aryanjaiswal1003&repo=YOUR_PROJECT_2&theme=transparent"
+      alt="Featured project 2"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning, building, experimenting, and improving one project at a time.</i>
+</p>
