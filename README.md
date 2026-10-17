@@ -1,41 +1,21 @@
-# Aryan Jaiswal
+<h1 align="center">Hi 👋, I'm Aryan Jaiswal</h1>
+- 🌱 I’m currently learning **AI&ML, Data Science**
 
-<div align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?153184944" width="50" />
-</div>
+- 📫 How to reach me **aryanjaiswal1003@yahoo.com**
 
-## Socials
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jaiswal-ariha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaiswal-ariha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jaiswal-ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaiswal-ar" height="30" width="40" /></a>
+<a href="https://instagram.com/here_aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="here_aryan" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/random_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="random_10" height="30" width="40" /></a>
+</p>
 
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiswal-ar/)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jaiswal_ariha)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanjaiswal1003&show_icons=true&locale=en&layout=compact" alt="aryanjaiswal1003" /></p>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanjaiswal1003&show_icons=true&locale=en" alt="aryanjaiswal1003" /></p>
 
-## Github Profiles
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanJaiswal1003&theme=vision_friendly_dark"/>
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AryanJaiswal1003&theme=vision_friendly_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AryanJaiswal1003&theme=vision_friendly_dark"/>
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AryanJaiswal1003&theme=vision_friendly_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AryanJaiswal1003&theme=vision_friendly_dark&utcOffset=8"/>
-</div>
-
-## Skills and Comfortable With
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-Studying MCA at Amity University Noida
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjaiswal1003&" alt="aryanjaiswal1003" /></p>
