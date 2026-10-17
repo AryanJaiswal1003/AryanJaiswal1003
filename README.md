@@ -1,120 +1,73 @@
 <h1 align="center">Hi, I'm Aryan Jaiswal</h1>
+<h2 align="center">AI/ML &amp; Data Science</h2>
 
-<h3 align="center">
-  Aspiring AI/ML Engineer | Data Science Enthusiast
-</h3>
+---
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h2>𝘈𝘣𝘰𝘶𝘵 𝘮𝘦</h2>
+      <p>I’m currently learning <strong>AI/ML and Data Science</strong>.</p>
+      <p>I enjoy turning what I learn into notebooks, small projects, and practical experiments.</p>
+      <p>Reach me at <a href="mailto:aryanjaiswal1003@yahoo.com">aryanjaiswal1003@yahoo.com</a>.</p>
+    </td>
+    <td width="45%" valign="top">
+      <h2>𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦</h2>
+      <br>
+      <a href="https://twitter.com/jaiswal-ariha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="32" width="42"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://linkedin.com/in/jaiswal-ar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="42"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://instagram.com/here_aryan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="42"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.codechef.com/users/random_10" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="32" width="42"></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## **𝚃𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔**
 
 <p align="center">
-  Learning how to build intelligent systems through mathematics,
-  machine learning, Python, and software engineering.
-</p>
-
-<p align="center">
-  <a href="https://github.com/aryanjaiswal1003">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:aryanjaiswal1003@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="44" height="44"></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="44" height="44"></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="44" height="44"></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="44" height="44"></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="44" height="44"></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="44" height="44"></a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="44" height="44"></a><br><br>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="44" height="44"></a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="44" height="44"></a>&nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="44" height="44"></a>&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="44" height="44"></a>&nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="44" height="44"></a>&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="44" height="44"></a>
 </p>
 
 ---
 
-## About Me
-
-- Currently learning **AI/ML and Data Science**
-- Exploring **Python, statistics, mathematics, and machine learning**
-- Interested in building challenging, practical engineering projects
-- Contact: **aryanjaiswal1003@yahoo.com**
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/jaiswal-ariha">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/jaiswal-ar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/here_aryan">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/random_10">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
-## GitHub Overview
+## 𝙶𝚒𝚝𝙷𝚞𝚋 A𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faryanjaiswal1003&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github"
-    alt="Public repository count"
-  />
-  <img
-    src="https://img.shields.io/github/followers/aryanjaiswal1003?style=for-the-badge&label=Followers"
-    alt="GitHub followers"
-  />
+  <img src="https://streak-stats.demolab.com?user=AryanJaiswal1003&hide_border=true&theme=tokyonight" alt="Aryan's GitHub contribution streak">
 </p>
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=aryanjaiswal1003&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent"
-    alt="GitHub statistics"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjaiswal1003&layout=compact&langs_count=8&theme=transparent"
-    alt="Most used programming languages"
-  />
-</p>
-
-## Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=aryanjaiswal1003&theme=transparent"
-    alt="GitHub contribution streak"
-  />
-</p>
-
-## Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aryanjaiswal1003&theme=github-compact&hide_border=true"
-    alt="GitHub contribution activity graph"
-  />
-</p>
-
-## Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,pytorch,tensorflow,mysql,postgres,mongodb,git,docker,css,js&perline=7" alt="Technology icons" />
-</p>
-
-## Featured Projects
-
-<!-- Replace these examples with your actual repository names. -->
-
-<p align="center">
-  <a href="https://github.com/aryanjaiswal1003">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=aryanjaiswal1003&repo=YOUR_PROJECT_1&theme=transparent"
-      alt="Featured project 1"
-    />
-  </a>
-  <a href="https://github.com/aryanjaiswal1003">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=aryanjaiswal1003&repo=YOUR_PROJECT_2&theme=transparent"
-      alt="Featured project 2"
-    />
-  </a>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanJaiswal1003&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages">
 </p>
 
 ---
 
+## 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 A𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+
 <p align="center">
-  <i>Learning, building, experimenting, and improving one project at a time.</i>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanJaiswal1003&theme=github_dark" alt="GitHub contribution activity">
 </p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AryanJaiswal1003&theme=github_dark" alt="Repositories by language">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AryanJaiswal1003&theme=github_dark" alt="Most committed language">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AryanJaiswal1003&theme=github_dark" alt="GitHub profile totals">
+</p>
+
+---
+
+<p align="center">Thanks for visiting.</p>
