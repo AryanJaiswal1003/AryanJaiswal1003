@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aryan Jaiswal</h1>
-<h2 align="center">AI/ML &amp; Data Science</h2>
+<h2 align="center">Data Science | AIML | Backend Development</h2>
 
 ---
 
