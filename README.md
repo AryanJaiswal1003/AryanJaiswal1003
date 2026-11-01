@@ -8,7 +8,7 @@
     <td width="55%" valign="top">
       <h2>𝘈𝘣𝘰𝘶𝘵 𝘮𝘦</h2>
       <p>I’m currently learning <strong>AI/ML and Data Science</strong>.</p>
-      <p>I enjoy turning what I learn into notebooks, small projects, and practical experiments.</p>
+      <p>I enjoy turning what I learn into notebooks, projects, and practical experiments.</p>
       <p>Reach me at <a href="mailto:aryanjaiswal1003@yahoo.com">aryanjaiswal1003@yahoo.com</a>.</p>
     </td>
     <td width="45%" valign="top">
