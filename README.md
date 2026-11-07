@@ -50,10 +50,6 @@
   <img src="https://streak-stats.demolab.com?user=AryanJaiswal1003&hide_border=true&theme=tokyonight" alt="Aryan's GitHub contribution streak">
 </p>
 
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanJaiswal1003&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages">
-</p>
-
 ---
 
 ## 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 A𝚌𝚝𝚒𝚟𝚒𝚝𝚢
